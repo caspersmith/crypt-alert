@@ -1,0 +1,13 @@
+{
+  "name": "crypt-alert",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
